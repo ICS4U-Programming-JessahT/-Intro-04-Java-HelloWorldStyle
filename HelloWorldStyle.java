@@ -6,7 +6,9 @@
  */
 public final class HelloWorldStyle {
   /** Private constructor to prevent instantiation of this utility class. */
-  private HelloWorldStyle() {}
+  private HelloWorldStyle() {
+    // whitespace
+  }
 
   /**
    * Print message.
