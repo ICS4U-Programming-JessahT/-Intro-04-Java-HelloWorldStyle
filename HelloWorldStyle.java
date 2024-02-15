@@ -18,7 +18,7 @@ public final class HelloWorldStyle {
      *
      * @param args Command-line arguments (not used in program).
      */
-    public final static void main(final String[] args) {
+    public final static void main(String[] args) {
         System.out.println("I'm not really sure what to write here.");
     }
 }
